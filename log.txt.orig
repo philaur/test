@@ -1,7 +1,12 @@
 ﻿122345 öwaflkj
 2540ßn adfökl 
+<<<<<<< HEAD
 df24qtij
+B
+=======
+A
 syvb
+>>>>>>> 1bf72e508a18f4ca9f70909cac05a64eaa549e04
 
 4tß9j
 
@@ -18,8 +23,6 @@ changed from Person B sjkdfl
 
 
 
-<<<<<<< HEAD
-654654B
-=======
-123456A
->>>>>>> 173188a4a51147fa8b7cb2aea96de6968709782d
+
+123456A + BölksjfdB B # merged from B... 
+
